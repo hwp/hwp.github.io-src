@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = ()
+SOCIAL = (('github', 'https://github.com/hwp'), )
 
 DEFAULT_PAGINATION = False
 
