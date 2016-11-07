@@ -5,6 +5,7 @@ List of Conferences
 
 * IROS
 * ICRA
+* HRI
 * ROBIO
 * CVPR
 * ECCV
