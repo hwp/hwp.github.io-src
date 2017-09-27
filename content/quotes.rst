@@ -15,3 +15,6 @@ Quotes
   自由无价，生命有涯，宁为玉碎，以殉中华。
     --林昭
 
+  ¡Hasta la victoria siempre!
+    --Che Guevara
+
