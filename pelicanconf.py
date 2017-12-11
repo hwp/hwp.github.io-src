@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Weipeng He'
-SITENAME = u'Weipeng He'
+AUTHOR = u'hwp'
+SITENAME = u'ZZBBOOTTPPQQ'
 SITEURL = 'hwp.github.io'
 
 PATH = 'content'
