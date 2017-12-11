@@ -3,7 +3,7 @@ Quotes
 
 :date: 2016-05-13 17:04
 :category: learn
-:authors: Weipeng He
+:authors: hwp
 :summary: Quotes make me think
 
 不记下来就会忘记：
