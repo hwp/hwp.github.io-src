@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'hwp'
-SITENAME = u'ZZBBOOTTPPQQ'
+SITENAME = u'DDC#DACBF#GDGB'
 SITEURL = 'hwp.github.io'
 
 PATH = 'content'
@@ -27,4 +27,5 @@ SOCIAL = (('github', 'https://github.com/hwp'), )
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
