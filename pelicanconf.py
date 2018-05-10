@@ -6,6 +6,7 @@ SITENAME = u'DDC#DACBF#GDGB'
 SITEURL = 'hwp.github.io'
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'css']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -29,3 +30,8 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+# theme
+THEME='pelican-clean-blog'
+
+HEADER_COVER = 'images/home_bg.jpg'
+CSS_OVERRIDE = 'css/myblog.css'

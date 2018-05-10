@@ -1,0 +1,12 @@
+/*!
+ * Copyright 2018, Weipeng He
+ */
+
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+  padding: 100px 0 50px;
+  color: white;
+  text-shadow: -1px 0 rgba(200, 200, 200, .8), 0 1px rgba(200, 200, 200, .8), 1px 0 rgba(200, 200, 200, .8), 0 -1px rgba(200, 200, 200, .8);
+}
+
