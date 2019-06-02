@@ -2,7 +2,7 @@
 ========
 
 :date: 2016-05-13 17:04
-:category: 学习
+:category: Study
 :authors: hwp
 
 |
