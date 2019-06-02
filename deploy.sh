@@ -19,7 +19,7 @@ cd $GITIO_REPO_PATH &&
 # add, commit and push files
 git add -f . &&
 git commit -m "Deploy '$headref' to Github Pages" &&
-git push -f origin $BRANCH > /dev/null &&
+git push origin $BRANCH > /dev/null &&
 
 echo 'Deploy completed' || echo 'Deploy failed'
 

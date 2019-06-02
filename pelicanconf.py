@@ -31,7 +31,7 @@ DEFAULT_PAGINATION = False
 RELATIVE_URLS = True
 
 # theme
-THEME='pelican-clean-blog'
+THEME = 'pelican-clean-blog'
 
 HEADER_COVER = 'images/home_bg.jpg'
 CSS_OVERRIDE = 'css/myblog.css'
